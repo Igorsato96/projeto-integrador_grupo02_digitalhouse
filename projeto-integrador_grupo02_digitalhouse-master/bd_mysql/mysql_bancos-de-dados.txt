@@ -1,1 +1,0 @@
-Guardar nesta pasta os bancos de dados e arquivos .sql (se houver).

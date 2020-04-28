@@ -1,1 +1,0 @@
-Guardar nesta pasta todos os arquivos com extensões .htm, .html e .php.

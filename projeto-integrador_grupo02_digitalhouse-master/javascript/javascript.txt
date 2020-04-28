@@ -1,1 +1,0 @@
-Guardar nesta pasta os arquivos javascript (.js).
